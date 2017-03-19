@@ -1,0 +1,2 @@
+# brik
+My first repo
